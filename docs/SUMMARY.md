@@ -65,11 +65,11 @@
 * [Deployed Contracts](smart-contracts/deployed-contracts.md) -s 
 * [bLuna](smart-contracts/bluna/README.md) -s 
   * [Hub](https://lidofinance.github.io/terra-docs/contracts/hub) -s 
-  * [Reward](https://docs.terra.lido.fi/contracts/reward) -s 
-  * [Rewards Dispatcher](https://docs.terra.li do.fi/contracts/rewards\_dispatcher)  -s 
+  * [Reward](https://docs.terra.lido.fi/contracts/reward) -s
+  * [Rewards Dispatcher](https://docs.terra.li do.fi/contracts/rewards\_dispatcher)  -broken 
   * [Validators Registry](https://docs.terra.lido.fi/contracts/validators\_registry) -s 
   * [Airdrop Registry](https://docs.terra.lido.fi/contracts/airdrop-registry) -s 
-  * [Tokens: bLuna and stLuna](https://docs.terra.lido.fi/contracts/stLuna\_and\_bLuna) -s 
+  * [Tokens: bLuna and stLuna](https://docs.terra.lido.fi/contracts/stLuna\_and\_bLuna) -broken  
 * [bETH](smart-contracts/beth/README.md) -s 
   * [Reward](smart-contracts/beth/reward.md) -s 
   * [Token](smart-contracts/beth/token.md) -s 
