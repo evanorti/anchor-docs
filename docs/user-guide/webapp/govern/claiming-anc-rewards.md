@@ -4,15 +4,15 @@ The **Rewards** section of the **GOVERN** page provides users with function for 
 
 The **Claiming ANC Rewards** section of the **GOVERN** page displays:
 
-* **Total Rewards**: Total amount of ANC earned by the user as rewards.\
+* **Total Rewards**: Total amount of ANC earned by the user as rewards.
   ****
-* **Total Reward Value**: Total UST-denominated value of ANC rewards earned by user.\
+* **Total Reward Value**: Total UST-denominated value of ANC rewards earned by user.
 
 * **ANC-UST LP**: Displays data about ANC-UST LP token staking rewards of user.
   * **APY**: Annualized percentage yield (APY) of ANC-UST LP token staking rewards.
   * **Staked**: Amount of ANC-UST LP tokens staked by user.
   * **Stakable**: Amount of non-staked ANC-UST LP tokens held by user.
-  * **Rewards**: Amount of user's rewards earned from ANC-UST LP token staking.\
+  * **Rewards**: Amount of user's rewards earned from ANC-UST LP token staking.
     ****
 * **ANC Governance**: Displays data about ANC staking rewards of user.
   * **APY**: APY of ANC staking rewards.
@@ -28,7 +28,7 @@ The **Claiming ANC Rewards** section of the **GOVERN** page displays:
 
 1\. Navigate to the **Rewards** section in the **GOVERN** page.
 
-![](<../../../.gitbook/assets/Govern - claim - borrower - 1.png>)
+![](../../../assets/Govern-claim-borrower-1.png)
 
 2\. Click the actions button in the **UST borrow** row.
 

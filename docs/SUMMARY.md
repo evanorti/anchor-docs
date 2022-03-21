@@ -35,7 +35,7 @@
   * [bASSET \[bETH\]](user-guide/webapp/bond-beth.md) -e
   * [GOVERN](user-guide/webapp/govern/README.md) -e
     * [ANC - UST LP Staking](user-guide/webapp/govern/anc-ust-lp.md) -e
-    * [Anchor Governance Staking](user-guide/webapp/govern/claim-anc-rewards.md)
+    * [Anchor Governance Staking](user-guide/webapp/govern/claim-anc-rewards.md) -e
     * [Claiming ANC Rewards](user-guide/webapp/govern/claiming-anc-rewards.md)
     * [Creating and voting on proposals](user-guide/webapp/govern/governance-proposals.md)
 
