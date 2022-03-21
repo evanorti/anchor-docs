@@ -105,7 +105,7 @@ Learn more about Anchor Protocol, its core smart contracts, and Javascript SDK.
 /docs/developers-ethereum/ethanchor
 /docs/developers-ethereum/ethanchor-account-contract
 /docs/developers-ethereum/ethanchor-api/README
-/docs/developers-ethereum/ethanchor-api/fees
+/docs/developers-ethereum/fees
 ```
 
 ```{toctree}
